@@ -1,14 +1,13 @@
 # CSE187 Team 2 Project
 ## Game Item Trading
 
-Backend:
+### Backend:
 - DB: Postgres
-- Server: Express
-- API Language: GraphQL
-- ORM: Postgraphile
+- Server: Express w/ GraphQL Yoga
+- Schema Generator: TypeGraphQL
 
-Frontend:
-- Build: Vite
-- Meta Framework: Astro
-- State Management: Tanstack Query
-- UI Framework: Flowbite w/ Tailwind
+### Frontend:
+- Meta Framework: Next.js 13
+- Build: Turbopack
+- UI Framework: MaterialUI
+- Authentication: NextAuth
