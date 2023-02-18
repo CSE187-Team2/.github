@@ -62,7 +62,7 @@ to show based on selected radio buttons.
 
 ## Register and Login Page (complete)
 
-* Same as what we have right now.
+* Same as what we have right now. (complete)
 
 
 
