@@ -19,12 +19,14 @@ Go Team!
 
 - Simeon
 
+NOTE: All crossed out items are features that have been implemented.
+
 ## Home Page
 
 * The top of the home page displays all categories and a search bar.
 * Typing a search query and clicking "search" in search bar takes you to the "item search page"
-  displaying all results matching the regex of the search query. 
-* Top of home page also displays app bar with login and signup buttons when not logged in.
+  displaying all results matching the regex of the search query.
+~~* Top of home page also displays app bar with login and signup buttons when not logged in.~~
 * Home page app bar shows buttons to selling page, profile page, and logout button when logged in.
 * Clicking on a category leads to a drop-down of subcategories.
 * By default, the home page will list all items. Clicking a category/subcategory
@@ -52,17 +54,17 @@ to the home page.
 
 ## Items Search Page
 
-* Sidebar with radio buttons to select categories and subcategories. The main page will filter items
-to show based on selected radio buttons. (complete)
+~~* Sidebar with radio buttons to select categories and subcategories. The main page will filter items
+to show based on selected radio buttons.~~
 * The sidebar contains a search bar to search for items in this page.
 * Click an item in the item search page to go to the item details page for that item.
 * Top of items search page also displays app bar with login and signup buttons when not logged in.
 * Items search page app bar shows buttons to selling page, profile page, and logout button when logged in.
 
 
-## Register and Login Page (complete)
+~~## Register and Login Page
 
-* Same as what we have right now. (complete)
+~~* Same as what we have right now.~~
 
 
 
