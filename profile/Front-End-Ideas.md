@@ -54,6 +54,7 @@ to the home page.
 
 * Sidebar with radio buttons to select categories and subcategories. The main page will filter items
 to show based on selected radio buttons.
+* The sidebar contains a search bar to search for items in this page.
 * Click an item in the item search page to go to the item details page for that item.
 * Top of items search page also displays app bar with login and signup buttons when not logged in.
 * Items search page app bar shows buttons to selling page, profile page, and logout button when logged in.
