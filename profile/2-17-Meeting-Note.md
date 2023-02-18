@@ -1,4 +1,4 @@
-New issues raised in midst of meeting discussion:
+## New issues raised in midst of meeting discussion:
 
 displaying link to seller's profile on selling page
 https://github.com/CSE187-Team2/.github/issues/39
