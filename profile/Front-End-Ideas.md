@@ -60,7 +60,7 @@ to show based on selected radio buttons.
 * Items search page app bar shows buttons to selling page, profile page, and logout button when logged in.
 
 
-## Register and Login Page
+## Register and Login Page (complete)
 
 * Same as what we have right now.
 
