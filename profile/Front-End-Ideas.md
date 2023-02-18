@@ -53,7 +53,7 @@ to the home page.
 ## Items Search Page
 
 * Sidebar with radio buttons to select categories and subcategories. The main page will filter items
-to show based on selected radio buttons.
+to show based on selected radio buttons. (complete)
 * The sidebar contains a search bar to search for items in this page.
 * Click an item in the item search page to go to the item details page for that item.
 * Top of items search page also displays app bar with login and signup buttons when not logged in.
