@@ -34,15 +34,15 @@ makes home page show only items in that category/subcategory.
 * For each item, the home page displays a picture, the cost, and brief description.
 * Clicking on item takes you to page to look at item in more detail.
 
-## Profile Page
+~~## Profile Page~~
 
-* Same as what we have right now, with one additional feature: a button to go
-back to the home page.
+* ~~Same as what we have right now, with one additional feature: a button to go
+back to the home page.~~
 
-## Selling Page
+~~## Selling Page~~
 
-* Same as what we have right now, with a button to go back
-to the home page.
+* ~~Same as what we have right now, with a button to go back
+to the home page.~~
 
 
 ## Items Detail Page
