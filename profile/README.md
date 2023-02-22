@@ -11,10 +11,12 @@ The next step is to install the microservices that is utilized by our back-end s
 *  [Item (Listing) Microservice Repository]()
 *  [Image Microservice Repository]()
 
-You will need to run ``git clone`` for each microservice repository to download them to your computer. Each microservice supports ``npm run test`` and ``npm run lint`` to run their respective unit tests and the ESLint static analyzer, respectively. 
+You will need to run ``git clone`` for each microservice repository to download them to your computer. Each microservice supports ``npm run test`` and ``npm run lint`` to run their respective unit tests and the ESLint static analyzer, respectively.
+
+Once the front-end, back-end, and all microservice repositories have been installed, you will need to run ``npm run dev`` at the main directory of each repository. You can then now navigate to ``localhost:3000`` on your browser to utilize our web application. In addition, you can navigate to ``localhost:4000/graphql`` to see GraphQL Yoga interface that can be used to intreact with our back-end GraphQL API. Instructions on how to run each microservice individually is described in the README for each microservice repository. 
 
 
-## Technology Stack
+## Technology Stack Utilized
 
 ### Back-end:
 - DB: Postgres
