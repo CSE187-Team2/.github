@@ -6,6 +6,10 @@ You will first need to navigate to our [front-end Github repository](https://git
 
 The next step is to install the microservices that is utilized by our back-end source code. The links to the repositories holding your microservices are described in the below bullet points:
 *  [Shopping Cart Microservice Repository](https://github.com/CSE187-Team2/Shopping-Cart-Microservice)
+*  [Account Microservice Repository]()
+*  [Category Microservice Repository]()
+*  [Item (Listing) Microservice Repository]()
+*  [Image Microservice Repository]()
 
 You will need to run ``git clone`` for each microservice repository to download them to your computer. Each microservice supports ``npm run test`` and ``npm run lint`` to run their respective unit tests and the ESLint static analyzer, respectively. 
 
