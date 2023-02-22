@@ -1,5 +1,11 @@
 # CSE187 Team 2 Project
-## Game Item Trading
+
+## Installation Instructions
+
+
+
+
+## Stack Utilized
 
 ### Backend:
 - DB: Postgres
