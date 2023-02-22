@@ -16,12 +16,12 @@ You will need to run ``git clone`` for each microservice repository to download 
 
 ## Technology Stack
 
-### Backend:
+### Back-end:
 - DB: Postgres
-- Server: Express w/ GraphQL Yoga
+- Server: Express with GraphQL Yoga
 - Schema Generator: TypeGraphQL
 
-### Frontend:
+### Front-end:
 - Meta Framework: Next.js 13
 - Build: Turbopack
 - UI Framework: MaterialUI
