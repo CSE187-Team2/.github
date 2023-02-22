@@ -17,7 +17,7 @@ Once the front-end, back-end, and all microservice repositories have been instal
 
 Next you will need to to run ``npm run dev`` at the main directory of each repository. You can then now navigate to ``localhost:3000`` on your web browser to utilize our web application. In addition, you can navigate to ``localhost:4000/graphql`` to see GraphQL Yoga interface that can be used to intreact with our back-end GraphQL API.
 
-After stopping the front-end and back-end servers, you will need to run ``docker-compose down`` or ``sudo docker compose down`` in main directory of each microservice repository order to stop the database used by each microservice.
+After stopping the front-end and back-end servers, you will need to run ``docker-compose down`` or ``sudo docker compose down`` in the main directory of each microservice repository order to stop the database used by each microservice.
 
 ## How to Run the CI Tests in the Continuous Integration Repository
 
