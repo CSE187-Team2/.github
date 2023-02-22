@@ -2,7 +2,10 @@
 
 ## Installation Instructions
 
-You will first need to navigate to our [front-end Github repository](https://github.com/CSE187-Team2/frontend) and run ``git clone`` in order to install our front-end soure files. You will then need to navigate to our [back-end Github respository](https://github.com/CSE187-Team2/backend) and run ``git clone`` to install our back-end source files.
+You will first need to navigate to our [front-end Github repository](https://github.com/CSE187-Team2/frontend) and run ``git clone`` in order to install our front-end soure files. You will then need to navigate to our [back-end Github respository](https://github.com/CSE187-Team2/backend) and run ``git clone`` to install our back-end source files. Both the front-end and back-end respositories contain the ``npm run test`` and ``npm run lint`` commands to run our unit tests and the ESLint static analyzer, respectively.
+
+The next step is to install the microservices that is utilized by our back-end source code. The links to the repositories holding your microservices are described in the below bullet points:
+*  [Shopping Cart Microservice Repository](https://github.com/CSE187-Team2/Shopping-Cart-Microservice)
 
 
 ## Technology Stack
