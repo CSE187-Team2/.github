@@ -7,7 +7,7 @@ You will first need to navigate to our [front-end Github repository](https://git
 The next step is to install the microservices that is utilized by our back-end source code. The links to the repositories holding our microservices are described in the below bullet points:
 *  [Shopping Cart Microservice Repository](https://github.com/CSE187-Team2/Shopping-Cart-Microservice)
 *  [Account Microservice Repository]()
-*  [Category Microservice Repository]()
+*  [Category Microservice Repository](https://github.com/CSE187-Team2/Categories-Microservice)
 *  [Item (Listing) Microservice Repository]()
 *  [Image Microservice Repository]()
 
