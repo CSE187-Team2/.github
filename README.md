@@ -1,5 +1,9 @@
 # CSE187 Team 2 Project
 
+## Link to Scrum Board
+
+The link to our Scrum/Kanban Board is [here](https://github.com/orgs/CSE187-Team2/projects/1).
+
 ## Installation Instructions
 
 You will first need to navigate to our [front-end Github repository](https://github.com/CSE187-Team2/frontend) and run ``git clone`` in order to install our front-end source files. You will then need to navigate to our [back-end Github respository](https://github.com/CSE187-Team2/backend) and run ``git clone`` to install our back-end source files. Both the front-end and back-end respositories contain the ``npm run test`` and ``npm run lint`` commands to run our unit tests and the ESLint static analyzer, respectively.
