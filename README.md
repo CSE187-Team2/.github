@@ -28,7 +28,7 @@ POSTGRES_PASSWORD=[sql password]
 JWT_SECRET_KEY=[jwt secret key]
 ```
 The `.env` file is posted as a pinned message on the Discord Server.
-Once you get the `.env` file from the Discord server, you'll need to add it to the main directories of the backend repository and each microservice.
+Once you get the `.env` file from the Discord server, you'll need to add it to the main directories of the backend repository and each microservice. The JWT secret key is attached in the `.env` file that's in the Discord pinned message.
 
 In addition, the `.env` file is posted in the frontend repo because it doesn't contain any sensitive information.
 
