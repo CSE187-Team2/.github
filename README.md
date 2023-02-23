@@ -19,6 +19,15 @@ Next you will need to to run ``npm run dev`` at the main directory of each repos
 
 After stopping the front-end and back-end servers, you will need to run ``docker-compose down`` or ``sudo docker compose down`` in the main directory of each microservice repository order to stop the database used by each microservice.
 
+## .env and secrets
+The .env has this format:
+```
+POSTGRES_DB=[database name]
+POSTGRES_USER=[sql user name]
+POSTGRES_PASSWORD=[sql password]
+JWT_SECRET_KEY=[jwt secret key]
+```
+
 ## How to Run the CI Tests in the Continuous Integration Repository
 
 We are currently still working on developing the CI workflows for our CI repository. We will post the instructions once we have created the workflows for our CI repository. 
