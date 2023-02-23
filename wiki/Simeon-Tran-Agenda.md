@@ -20,6 +20,32 @@ prefer me to work on other tasks/issues.
 * Refactor Shopping Cart Microservice using the feedback given by Professor Harrison during his Wednesday office hours. 
 * Successfully implement the back-end mocks for the listing of a given user's shopping cart.
 * Create Workflow for both Shopping Cart and Categories Microservices. This same workflow can be used across all our microservices.
-  (This completes the 
 
 ## Friday
+
+* Implement a front-end webpage that allows each pre-defined user to see their shopping cart.
+
+## Saturday
+
+* Work with Russell to move the Sidebar created in "/search" to be used in the home page, as we all agreed that the functionality of "/search" shoulb be moved to the home page.
+* Pick a task that is not already assigned that will move us closer to accomplish one "issue" in the "Project 3 MVP" column of our Scrum board. Once I have picked a task, then I will write up my schedule for Sunday to Thursday night (the Project 3 deadline). 
+
+## Sunday
+
+[Insert Tasks Here]
+
+## Monday
+
+[Insert Tasks Here]
+
+## Tuesday
+
+[Insert Tasks Here]
+
+## Wednesday
+
+[Insert Tasks Here]
+
+## Thursday (Project 3 Deadline)
+
+[Insert Tasks Here]
