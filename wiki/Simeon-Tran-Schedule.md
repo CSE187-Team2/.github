@@ -27,6 +27,7 @@ prefer me to work on other tasks/issues.
 
 ## Saturday
 
+* Refactor home page to work with new Categories/Subcategories back-end API.
 * Work with Russell to move the Sidebar created in "/search" to be used in the home page, as we all agreed that the functionality of "/search" shoulb be moved to the home page.
 * Pick a task that is not already assigned that will move us closer to accomplish one "issue" in the "Project 3 MVP" column of our Scrum board. Once I have picked a task, then I will write up my schedule for Sunday to Thursday night (the Project 3 deadline). 
 
