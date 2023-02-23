@@ -27,6 +27,10 @@ POSTGRES_USER=[sql user name]
 POSTGRES_PASSWORD=[sql password]
 JWT_SECRET_KEY=[jwt secret key]
 ```
+The `.env` file is posted as a pinned message on the Discord Server.
+Once you get the `.env` file from the Discord server, you'll need to add it to the main directories of the backend repository and each microservice.
+
+In addition, the `.env` file is posted in the frontend repo because it doesn't contain any sensitive information.
 
 ## How to Run the CI Tests in the Continuous Integration Repository
 
