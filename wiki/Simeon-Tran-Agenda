@@ -1,0 +1,18 @@
+# Planned Tasks for Project 3
+
+Hey Team!
+
+This is my proposed plan on what tasks and issues I plan address for the rest of Project 3.
+I made this plan based on where I believe I can be most helpful in our project. This schedule
+is subject to change based on the issues I will be working on according to the Scrum/Kanban board.
+
+Please feel more than free to let me know (or even change this README) if you all
+prefer me to work on other tasks/issues.
+
+## Thursday
+
+* Refactor Shopping Cart Microservice using the feedback given by Professor Harrison during his Wednesday office hours. 
+* Successfully implement the back-end mocks for the listing of a given user's shopping cart.
+* Create Workflow for both Shopping Cart and Categories Microservices. This same workflow can be used across all our microservices.
+
+## Friday
