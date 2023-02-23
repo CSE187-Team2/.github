@@ -13,7 +13,7 @@ The next step is to install the microservices that is utilized by our back-end s
 *  [Account Microservice Repository]()
 *  [Category Microservice Repository](https://github.com/CSE187-Team2/Categories-Microservice)
 *  [Item (Listing) Microservice Repository]()
-*  [Image Microservice Repository]()
+*  [Image Microservice Repository](https://github.com/CSE187-Team2/image-microservice)
 
 You will need to run ``git clone`` for each microservice repository to download them to your computer. Each microservice supports ``npm run test`` and ``npm run lint`` to run their respective unit tests and the ESLint static analyzer, respectively. Instructions on how to run each microservice individually is described in the README for each microservice repository.
 
