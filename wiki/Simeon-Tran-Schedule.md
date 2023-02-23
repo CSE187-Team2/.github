@@ -17,7 +17,7 @@ prefer me to work on other tasks/issues.
 
 ## Thursday
 
-* Refactor Shopping Cart Microservice using the feedback given by Professor Harrison during his Wednesday office hours. 
+* ~~Refactor Shopping Cart Microservice using the feedback given by Professor Harrison during his Wednesday office hours.~~
 * Successfully implement the back-end mocks for the listing of a given user's shopping cart.
 * Create Workflow for both Shopping Cart and Categories Microservices. This same workflow can be used across all our microservices.
 
